@@ -1,1 +1,1 @@
-# Machine-Learning-Practical-Project-2025
+# Machine Learning Practical Project
